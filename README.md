@@ -1,69 +1,21 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
-## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
-- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: 
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
+# Shiran Yuan's STATS 201 Repository
+This is Shiran Yuan's repository for the course STATS 201.
 
-## Table of Contents
-- data
-- code
-- spotlight
+## Bio
+![Shiran](https://user-images.githubusercontent.com/105504535/213655331-9881b742-241d-48af-b3c3-27fdb4d8092d.jpeg)
 
+Shiran Yuan was born on September 2007. He dropped out of primary school during second grade in 2016 (age 8) after receiving a scholarship, and began self-studying since then. 
 
+In 2017 (age 9) he received IELTS band 7. 
 
-## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+In 2018 (age 10), he completed the Shing-Tung Yau Mathcamp course at Tsinghua University, received Honor Roll of Distinction in the Second Round of the Mathematics League Competition (Grades 9-12 Track), earned High Honors in the Johns Hopkins Center for Talented Youth's Talent Search Program, received a TOEFL score of 109, and was awarded the AP Scholar with Honor Award from the CollegeBoard. 
 
+In 2019 (age 11), he received the AP Scholar with Distinction Award from the CollegeBoard and a DELF B2 (French language) certificate.
 
-## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+In 2020 (age 12), he completed the Hsue-Shen Tsien Excellence in Engineering Program Summer Camp course at Tsinghua University.
 
-## Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+In 2021 (age 13), he was admitted to DKU with a full scholarship, and received the top prize at X-Institute (an academic research institution founded by Tsinghua University) Summer Camp.
 
-## References
+In 2022 (age 14), he became an X-Institute Scholar, and received the Silver Medal in the iGEM Competition.
 
-### Data Source
-- Data Source Title and URL
-### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
-### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-
+His current intended major is Applied Mathematics and Computational Sciences (Computer Science Track).
