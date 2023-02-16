@@ -1,0 +1,12 @@
+description: Shiran Yuan's STATS 201 Repository
+
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark"
+  appearance_toggle: true 
+
+plugins:
+  - jekyll-feed
+  - jekyll-soopr-seo-tag
+  - jekyll-remote-theme
