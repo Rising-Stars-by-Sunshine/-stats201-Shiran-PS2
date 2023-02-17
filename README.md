@@ -53,15 +53,21 @@ All code files are stored within the `code` directory.
 
 ## Spotlights
 * `spotlight1.png`: The number of queried tweets by months.
+
 ![spotlight1](https://user-images.githubusercontent.com/105504535/219619566-fc0132f5-e153-44c5-89b0-bede3d9fc77b.png)
+
 * `spotlight2.png`: The number of queried tweets by days, and the smoothed version of this data smoothed by weekly averages.
 ![spotlight2](https://user-images.githubusercontent.com/105504535/219619587-8bce2247-9313-4e19-8a56-7ae0e0b389ee.png)
+
 * `spotlight3.png`: An intuitive display of the relationship of the queried data with the DAO hack incident and its subsequent SEC ruling.
 ![spotlight3](https://user-images.githubusercontent.com/105504535/219619609-fdb3a6ec-7be7-4362-adbe-d6e0fe047f23.png)
+
 * `spotlight4.png`: Prediction of future trends of the number of queried tweets by months in 2023.
 ![spotlight4](https://user-images.githubusercontent.com/105504535/219619641-a40ecdfe-a574-463a-ae56-3c048d549032.png)
+
 * `spotlight5.png`: Prediction of future trends of the number of queried tweets by days in 2023.
 ![spotlight5](https://user-images.githubusercontent.com/105504535/219619896-09ecb443-f557-435e-8166-96ea4301c888.png)
+
 * `spotlight6.png`: A word cloud of the keywords of the queried tweets.
 ![spotlight6](https://user-images.githubusercontent.com/105504535/219619980-dc9f4924-09d3-4b38-b3e0-6987ecd3d3e6.png)
 
