@@ -73,6 +73,6 @@ All code files are stored within the `code` directory.
 
 ## Conclusions
 The following conclusions are reached from this project.
-* The main keywords of tweets about data privacy/security in blockchain over the past 10 years include: new technologies (e.g. artificial intelligence, cryptocurrencies, big data), major blockchain platforms (e.g. Bitcoin, Ethereum), major security threats (e.g. ransomware, data breach), and related fields of applications (e.g. healthcare, biometrics, cryptography).
+* The main keywords of tweets about data privacy/security in blockchain over the past 10 years include: new technologies (e.g. artificial intelligence, cryptocurrencies, big data), major blockchain platforms (e.g. Bitcoin, Ethereum), major security threats (e.g. ransomware, data breach, malware), and related fields of applications (e.g. healthcare, biometrics, cryptography).
 * The popularity of data privacy/security in blockchain as a Twitter topic is projected to decrease over 2023, unless an unpredictable incident similar to the DAO hack and its aftermath occurs in the near future.
 * The SEC ruling of the DAO hack incident seems to have had more impact on the popularity of the topic of data privacy/security in blockchain than the incident itself. (An unexpected discovery not corresponding to predetermined research questions)
