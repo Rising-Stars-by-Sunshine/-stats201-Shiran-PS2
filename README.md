@@ -47,7 +47,7 @@ All code files are stored within the `code` directory.
 * `PS2_Explanation_Analyze.ipynb`: Analyzes `Explanation_Data.txt`. Produces the spotlight figure `spotlight6.png`.
 * `PS2_Query_Data.ipynb`: Queries tweets and records their dates. Produces the data file `PS2_Data.txt`.
 * `PS2_Process_Data.ipynb`: Processes and visualizes `PS2_Data.txt`. Produces the spotlight figures `spotlight1.png` and `spotlight2.png`.
-* `PS2_Analyze_Data.ipynb`: Conducts predictions based on `PS2_Data.txt`. Produces the spotlight figures `spotlight4.png` and `spotlight5.png`.
+* `PS2_Analyze_Data.ipynb`: Conducts predictions based on `PS2_Data.txt` using a two-hidden-layer neural network with 100 nodes per layer and trained for 100000 iterations. Produces the spotlight figures `spotlight4.png` and `spotlight5.png`.
 
 ## Spotlights
 * `spotlight1.png`: The number of queried tweets by months.
