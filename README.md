@@ -34,7 +34,7 @@ His current intended major is Applied Mathematics and Computational Sciences (Co
 In this problem set, I am going to explore tweets about data privacy/security in blockchain over the past 10 years (Jan 1st 2013 to Dec 31st 2022). The following are the research questions:
 * Part I (Explanation): What are the main keywords and topics of tweets about data privacy/security in blockchain over the past 10 years?
 * Part II (Prediction): Is data privacy/security in blockchain projected to become increasingly or decreasingly popular as a topic on Twitter in 2023?
-The project contains a total number of 4 data files, 7 code files, and 6 spotlight figures. All data and code were produced independently by the author.
+The project contains a total number of 2 data files, 5 code files, and 6 spotlight figures. All data and code were produced independently by the author.
 
 ## Data
 All data files are stored within the `data` directory.
