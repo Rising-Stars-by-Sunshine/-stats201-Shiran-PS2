@@ -2,6 +2,4 @@
 * `PS2_Explanation_Analyze.ipynb`: Analyzes `Explanation_Data.txt`. Produces the spotlight figure `spotlight6.png`.
 * `PS2_Query_Data.ipynb`: Queries tweets and records their dates. Produces the data file `PS2_Data.txt`.
 * `PS2_Process_Data.ipynb`: Processes and visualizes `PS2_Data.txt`. Produces the spotlight figures `spotlight1.png` and `spotlight2.png`.
-* `PS2_Matlab_Models/Daily_Model.mat`: A Exponential Gaussian Process Regression model trained by Regression Learner from MATLAB based on daily data.
-* `PS2_Matlab_Models/Monthly_Model.mat`: A Exponential Gaussian Process Regression model trained by Regression Learner from MATLAB based on monthly data.
-* `PS2_Analyze_Data.ipynb`: Visualizes the predictions from `Monthly_Predict.txt` and `Daily_Predict.txt`. Produces the spotlight figures `spotlight4.png` and `spotlight5.png`.
+* `PS2_Analyze_Data.ipynb`: Conducts predictions based on `PS2_Data.txt`. Produces the spotlight figures `spotlight4.png` and `spotlight5.png
