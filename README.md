@@ -40,8 +40,6 @@ The project contains a total number of 4 data files, 7 code files, and 6 spotlig
 All data files are stored within the `data` directory.
 * `Explanation_Data.txt`: Contains the raw content of all queried tweets.
 * `PS2_Data.txt`: Contains the number of queried tweets for each day from Jan 1st 2013 to Dec 31st 2022. Days without queried tweets are not shown.
-* `Monthly_Predict.txt`: Contains predictions of the number of queried tweets by months according to the prediction model.
-* `Daily_Predict.txt`: Contains predictions of the number of queried tweets by days according to the prediction model.
 
 ## Code
 All code files are stored within the `code` directory.
@@ -49,9 +47,7 @@ All code files are stored within the `code` directory.
 * `PS2_Explanation_Analyze.ipynb`: Analyzes `Explanation_Data.txt`. Produces the spotlight figure `spotlight6.png`.
 * `PS2_Query_Data.ipynb`: Queries tweets and records their dates. Produces the data file `PS2_Data.txt`.
 * `PS2_Process_Data.ipynb`: Processes and visualizes `PS2_Data.txt`. Produces the spotlight figures `spotlight1.png` and `spotlight2.png`.
-* `PS2_Matlab_Models/Daily_Model.mat`: A Exponential Gaussian Process Regression model trained by Regression Learner from MATLAB based on daily data.
-* `PS2_Matlab_Models/Monthly_Model.mat`: A Exponential Gaussian Process Regression model trained by Regression Learner from MATLAB based on monthly data.
-* `PS2_Analyze_Data.ipynb`: Visualizes the predictions from `Monthly_Predict.txt` and `Daily_Predict.txt`. Produces the spotlight figures `spotlight4.png` and `spotlight5.png`.
+* `PS2_Analyze_Data.ipynb`: Conducts predictions based on `PS2_Data.txt`. Produces the spotlight figures `spotlight4.png` and `spotlight5.png`.
 
 ## Spotlights
 * `spotlight1.png`: The number of queried tweets by months.
@@ -81,5 +77,5 @@ All code files are stored within the `code` directory.
 ## Conclusions
 The following conclusions are reached from this project.
 * The main keywords of tweets about data privacy/security in blockchain over the past 10 years include: new technologies (e.g. artificial intelligence, cryptocurrencies, big data), major blockchain platforms (e.g. Bitcoin, Ethereum), major security threats (e.g. ransomware, data breach, malware), and related fields of applications (e.g. healthcare, biometrics, cryptography).
-* The popularity of data privacy/security in blockchain as a Twitter topic is projected to decrease over 2023, unless an unpredictable incident similar to the DAO hack and its aftermath occurs in the near future.
+* The popularity of data privacy/security in blockchain as a Twitter topic is projected to recover from its previous decrease and slowly increase in the near future.
 * The SEC ruling of the DAO hack incident seems to have had more impact on the popularity of the topic of data privacy/security in blockchain than the incident itself. (An unexpected discovery not corresponding to predetermined research questions)
